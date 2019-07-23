@@ -15,6 +15,7 @@ Instructor: Everett Wetchler
 
 ### 1. Survey (anonymous / low stakes)
 http://bit.ly/gdso-survey or scan this:
+
 <a rel='nofollow' href='https://www.qr-code-generator.com/a1/?ut_source=google_c&ut_medium=cpc&ut_campaign=en_qr_code_create_generisch&ut_content=qr_code_creator_exact&ut_term=qr%20code%20creator_e&gclid=EAIaIQobChMI8fnbkMjL4wIVjh6tBh1nbAkaEAAYASAAEgKQmvD_BwE
             ' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSc8ZVklQzOxLrgClZIaMJs3AzOf-YcqG44cSMAzpHczw3hHCw%2Fviewform%3Fusp%3Dsf_link&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
