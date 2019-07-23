@@ -32,12 +32,13 @@ http://bit.ly/gdso-survey or scan this:
       1. Aggregating and summarizing
       1. Simple plots
 
-1. Collaboration setup
+1. Pair coding setup
    1. Pair up and pick a "driver"
    1. Fork this repo
       - What's the new URL? How do you know your new repo was "forked" from this one?
    1. Add your friend as a collaborator
    1. Use GitHub Desktop (or regular git) to get a local copy of your repo
+   1. Fire up a new Jupyter notebook in your local repo
    1. After 20 minutes we'll switch "drivers" to practice collaboration via GitHub
 
 ### Useful resources for later
