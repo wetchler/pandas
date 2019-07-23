@@ -1,2 +1,2 @@
-# pandas
-Berkeley GDSO pre-workshop, part 3: pandas (July 2019)
+# PANDAS Tutorial
+## Berkeley GDSO pre-workshop, part 3: pandas (July 2019)
