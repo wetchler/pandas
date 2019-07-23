@@ -21,8 +21,9 @@ http://bit.ly/gdso-survey or scan this:
 
 ### 2. Get to work!
 1. Goals for the day (in order of priority)
-   1. Build an intuition what pandas can do (so you know when to reach for it).
-      - In brief, pandas is good for _reformatting_ and _summarizing_ data
+   1. Build an intuition what pandas can do.
+      - **In brief, pandas is good for _reformatting_ and _summarizing_ data**
+      - It's the foundation of all data analysis in Python
    2. Learn where online to learn more.
       - You will NOT be an expert today, pandas is a swiss-army knife with a tonnn it can do. I've been using pandas for 10 years and STILL regularly consult documentation, google questions etc. Luckily online resources are GREAT, so save your brain space and lean on the internet.
    3. Learn the basics to get up and running.
