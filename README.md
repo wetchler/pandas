@@ -12,23 +12,23 @@ Instructor: Everett Wetchler
 ### Overview of this hour
 1. Quick survey (5m)
 1. Hands-on! Pair coding on a real dataset
-  - Collaboration setup
-      - Pair up and pick a "driver"
-      - Fork this repo
-        - What's the new URL? How do you know your new repo was "forked" from this one?
-      - Add your friend as a collaborator
-      - Use GitHub Desktop (or regular git) to get a local copy of your repo
-    - After 20 minutes we'll switch "drivers" to practice collaboration via GitHub
-  - Goals for the day (in order of priority)
-    1. Build an intuition what pandas can do (so you know when to reach for it).
-      - In brief, pandas is good for _reformatting_ and _summarizing_ data
-    2. Learn where online to learn more.
-      - You will NOT be an expert today, pandas is a swiss-army knife with a tonnn it can do. I've been using pandas for 10 years and STILL regularly consult documentation, google questions etc. Luckily online resources are GREAT, so save your brain space and lean on the internet.
-    3. Learn the basics to get up and running.
-      - Reading and looking at data
-      - Filtering data
-      - Aggregating and summarizing
-      - Simple plots
+   1. Collaboration setup
+      1. Pair up and pick a "driver"
+      1. Fork this repo
+         - What's the new URL? How do you know your new repo was "forked" from this one?
+      1. Add your friend as a collaborator
+      1. Use GitHub Desktop (or regular git) to get a local copy of your repo
+      1. After 20 minutes we'll switch "drivers" to practice collaboration via GitHub
+   1. Goals for the day (in order of priority)
+      1. Build an intuition what pandas can do (so you know when to reach for it).
+         - In brief, pandas is good for _reformatting_ and _summarizing_ data
+      2. Learn where online to learn more.
+         - You will NOT be an expert today, pandas is a swiss-army knife with a tonnn it can do. I've been using pandas for 10 years and STILL regularly consult documentation, google questions etc. Luckily online resources are GREAT, so save your brain space and lean on the internet.
+      3. Learn the basics to get up and running.
+         1. Reading and looking at data
+         1. Filtering data
+         1. Aggregating and summarizing
+         1. Simple plots
 
 
 ### Useful resources for later
