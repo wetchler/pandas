@@ -11,7 +11,8 @@ Instructor: Everett Wetchler
 
 ### Overview of this hour
 1. Quick survey (5m)
-1. Hands-on! Pair coding on a real dataset
+1. Local Jupyter/GitHub setup (10m)
+1. Hands-on! Pair coding on a real dataset (45m)
 
 ### 1. Survey (anonymous / low stakes)
 http://bit.ly/gdso-survey or scan this:
@@ -19,7 +20,14 @@ http://bit.ly/gdso-survey or scan this:
 <a rel='nofollow' href='https://www.qr-code-generator.com/a1/?ut_source=google_c&ut_medium=cpc&ut_campaign=en_qr_code_create_generisch&ut_content=qr_code_creator_exact&ut_term=qr%20code%20creator_e&gclid=EAIaIQobChMI8fnbkMjL4wIVjh6tBh1nbAkaEAAYASAAEgKQmvD_BwE
             ' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSc8ZVklQzOxLrgClZIaMJs3AzOf-YcqG44cSMAzpHczw3hHCw%2Fviewform%3Fusp%3Dsf_link&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
-### 2. Get to work!
+### 2. (Hopefully) quick and easy installation
+1. Install python on your computer via the "Anaconda" program: https://www.anaconda.com/distribution/
+   - A helper to install python and python libraries without a headache
+1. Install GitHub Desktop: https://desktop.github.com/
+   - Hides the gnarly "git" part of GitHub
+   - Makes it easy to `clone` someone's repo and work on it
+
+### 3. Get to work!
 1. Goals for the day (in order of priority)
    1. Build an intuition what pandas can do.
       - **In brief, pandas is good for _reformatting_ and _summarizing_ data**
