@@ -1,5 +1,5 @@
 # PANDAS Tutorial
-### Berkeley GDSO pre-workshop: the `pandas` library (July 2019)
+### Berkeley GDSO pre-workshop #3: the `pandas` library (July 2019)
 
 ### Other lessons this week
 1. (Monday) - [GitHub and git](https://github.com/geoffbacon/collaboration) (Instructor: Geoff)
