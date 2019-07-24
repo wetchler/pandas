@@ -2,10 +2,12 @@
 ### Berkeley GDSO pre-workshop #3: the `pandas` library (July 2019)
 Instructor: Everett Wetchler
 
+### http://bit.ly/gdso-pandas
+
 ### Other lessons this week
 1. (Monday) - [GitHub and git](https://github.com/geoffbacon/collaboration) (Instructor: Geoff)
-1. (Tuesday) - [Jupyter notebooks]() (Instructor: Charles)
-1. (Wednesday) - [PANDAS (this tutorial)]() (Instructor: Everett)
+1. (Tuesday) - [Jupyter notebooks](https://github.com/charlesfrye/DSW2018-tutorials/tree/master/JupyterNotebookForGreatGood) (Instructor: Charles)
+1. (Wednesday) - [PANDAS (this tutorial)](https://github.com/wetchler/pandas) (Instructor: Everett)
 1. (Thursday) - Data visualization (link forthcoming) (Instructor: Liang)
 1. (Friday) - Stats and machine learning (link forthcoming) (Instructor: Everett)
 
