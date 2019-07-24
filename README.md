@@ -25,9 +25,9 @@ http://bit.ly/gdso-survey or scan this:
 ### 2. (Hopefully) quick and easy installation
 1. Install python on your computer via the "Anaconda" program: https://www.anaconda.com/distribution/
    - A helper to install python and python libraries without a headache
+   - Further documentation [here](https://docs.anaconda.com/anaconda/)
 1. Install GitHub Desktop: https://desktop.github.com/
    - Hides the gnarly "git" part of GitHub
-   - Makes it easy to `clone` someone's repo and work on it
 
 ### 3. Get to work!
 1. Goals for the day (in order of priority)
