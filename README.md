@@ -30,6 +30,8 @@ http://bit.ly/gdso-survey or scan this:
    - Hides the gnarly "git" part of GitHub
 1. If this all totally fails, use the Binder link below:
    - https://mybinder.org/v2/gh/wetchler/pandas/master
+1. Since Binder is sometimes buggy or slow, you can also try Google Colab:
+   - https://colab.research.google.com/
 
 ### 3. Get to work!
 1. Goals for the day (in order of priority)
