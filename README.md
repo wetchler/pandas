@@ -59,5 +59,5 @@ http://bit.ly/gdso-survey or scan this:
   - [Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) - useful for GitHub README files and Jupyter descriptive cells
   - [PANDAS group-by: split/apply/combine](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html) - wrap your head around this stuff
   * If you want to hunker down, try [this longer, 3 hour pandas tutorial](https://www.youtube.com/watch?v=oGzU688xCUs) or really anything from a [Scipy conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)
-  * **THE BEST WAY TO LEARN IS TO DO REAL ANALYSIS**. Learn only what you need as you go along. You'll absorb things FAR faster if you're working on something you care about.
+  * **THE BEST WAY TO LEARN IS TO DO REAL ANALYSIS**. Learn only what you need as you go along. You'll remember things that you *actually use* the best.
   - Footnote: it's not beneath you to use Excel / Google Spreadsheets for simple things!
