@@ -33,6 +33,11 @@ http://bit.ly/gdso-survey or scan this:
 1. Since Binder is sometimes buggy or slow, you can also try Google Colab:
    - https://colab.research.google.com/
 
+```
+FILE_HAPPINESS = 'https://raw.githubusercontent.com/wetchler/pandas/master/data/happiness.csv'
+FILE_GDP = 'https://raw.githubusercontent.com/wetchler/pandas/master/data/gdp_cleaned_2018.csv'
+```
+
 ### 3. Get to work!
 1. Goals for the day (in order of priority)
    1. Build an intuition what pandas can do.
