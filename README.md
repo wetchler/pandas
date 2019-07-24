@@ -29,7 +29,7 @@ http://bit.ly/gdso-survey or scan this:
 1. Install GitHub Desktop: https://desktop.github.com/
    - Hides the gnarly "git" part of GitHub
 1. If this all totally fails, use the Binder link below:
-   - https://mybinder.org/v2/gh/wetchler/pandas/master
+   - https://mybinder.org/v2/gh/wetchler/pandas/master?filepath=workbook.ipynb
 1. Since Binder is sometimes buggy or slow, you can also try Google Colab:
    - https://colab.research.google.com/
 
