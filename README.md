@@ -28,6 +28,8 @@ http://bit.ly/gdso-survey or scan this:
    - Further documentation [here](https://docs.anaconda.com/anaconda/)
 1. Install GitHub Desktop: https://desktop.github.com/
    - Hides the gnarly "git" part of GitHub
+1. If this all totally fails, use the Binder link below:
+   - https://mybinder.org/v2/gh/wetchler/pandas/master
 
 ### 3. Get to work!
 1. Goals for the day (in order of priority)
