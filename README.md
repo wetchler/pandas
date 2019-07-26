@@ -7,9 +7,9 @@ Instructor: Everett Wetchler
 ### Other lessons this week
 1. (Monday) - [GitHub and git](https://github.com/geoffbacon/collaboration) (Instructor: Geoff)
 1. (Tuesday) - [Jupyter notebooks](https://github.com/charlesfrye/DSW2018-tutorials/tree/master/JupyterNotebookForGreatGood) (Instructor: Charles)
-1. (Wednesday) - [PANDAS (this tutorial)](https://github.com/wetchler/pandas) (Instructor: Everett)
+1. ** (Wednesday) - [PANDAS (this tutorial)](https://github.com/wetchler/pandas) (Instructor: Everett) **
 1. (Thursday) - [Data visualization](https://github.com/lchen23/GDSO_workshop) (Instructor: Liang)
-1. (Friday) - [Stats and machine learning (this tutorial)](https://github.com/wetchler/ML) (Instructor: Everett)
+1. (Friday) - [Stats and machine learning](https://github.com/wetchler/ML) (Instructor: Everett)
 
 ### Overview of this hour
 1. Quick survey (5m)
